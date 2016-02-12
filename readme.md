@@ -1,4 +1,4 @@
-# wp-file-list-shortcode
+# prag-file-list-shortcode
 This plugin provides some simple organization of files in the Media library of WordPress as well as a shortcode for listing files within defined group(s).  Files listed by the shortcode are ordered alphabetically by file name/title.
 
 The file listing is generated every time the page is generated (i.e. if files are added/edited/deleted from a folder, those changes will be reflected on any page using the shortcode the next time the page is generated)
@@ -12,7 +12,7 @@ A menu item for "Folders" is added to the WordPress Admin menu under "Media".  Y
 ## Usage
 
 ### Syntax
-[file-list folder="&lt;folder-slug&gt;" _relation="&lt;AND/OR&gt;"_]
+`[file-list folder="<folder-slug>" _relation="<AND/OR>"_]`
 
 `<folder-slug>` is the slug for the folder that you want to display.  Easy copy & paste shortcodes for single folders are provided on the **Folders** page under the **Media** menu item in the WordPress Admin.  There is support for multiple folders by using a comma separated list of the folder slugs (see examples section below).
 
