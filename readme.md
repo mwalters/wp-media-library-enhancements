@@ -34,3 +34,4 @@ The `relation` parameter is optional.  Valid values are `AND` or `OR`.  If multi
 - This will provide an Unordered list (`<ul>`) of all files that are in either folder "foo" OR "bar" (i.e. displays all files in both folders)
 
 `[file-list folder="foo,bar" relation="OR"]`
+
