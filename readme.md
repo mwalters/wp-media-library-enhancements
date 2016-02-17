@@ -39,4 +39,4 @@ The `relation` parameter is optional.  Valid values are `AND` or `OR`.  If multi
 
 This project is licensed under the [GNU GPL](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), version 2 or later.
 
-Copyright &copy; 2016 [Matt Walters](https://mattwalters.net).
+Copyright &copy; 2016 [Matt Walters](http://www.mattwalters.net).
